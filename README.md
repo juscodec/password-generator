@@ -7,4 +7,4 @@ app web generador de contraseñas
 ---
 ![Captura de pantalla](http://imgfz.com/i/4OYpDhn.jpeg)
 
-### DEMO <https://juscoder.github.io/password-generator/>
+### Preview: <https://passjus-generator.netlify.app/>
